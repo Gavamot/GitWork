@@ -1,0 +1,2 @@
+#«адать им€ пользовател€ дл€ всех репозиториев
+git config -- global user.name "Gavamot"
