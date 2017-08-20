@@ -5,6 +5,10 @@
 #  	Unmodified(без изменений)
 #   	Modefied(с изменени€ми)
 #	Staged(подготовленный) - готов к комиту
+# ! ѕоследовательность действий добавлени€ файла на сервер
+#	git add .
+#	git commit -m 'comment'	
+#	git push
 
 # «адать им€ пользовател€ дл€ всех репозиториев
 git config -- global user.name "Gavamot"
