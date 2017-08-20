@@ -3,3 +3,6 @@ git config -- global user.name "Gavamot"
 
 #Инициализировать репозиторий (создать скрытую папку .git)
 git init
+
+#Посмотреть изменения
+git status
