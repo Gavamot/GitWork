@@ -66,3 +66,6 @@ git remote add repName "C:\rep\qq"
 	# Обновить файлы из репозитория
 	git pull
 
+	# Связать ветки
+	git checkout --track origin/master
+	
