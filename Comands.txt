@@ -91,7 +91,7 @@
 	git checkout name
 
 	# Залить ветку на сервер
-	#git push origin name
+	git push origin name
 
 	# Слияние веток
-	 git marge name
+	git marge name
