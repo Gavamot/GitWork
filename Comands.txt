@@ -39,4 +39,4 @@ git checkout -- Comands.txt
 git reset --hard <commit> #(<commit> - HEAD~3) - откат на 3 изменеия назад (чтобы откатится к текущему git reset --hard HEAD)
 
 # Добавляет к текущему репозиторию ссылку на удаленный под каким то именем
-git remote add repName
+git remote add repName "C:\rep\qq"
