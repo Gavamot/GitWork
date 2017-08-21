@@ -21,7 +21,7 @@
 #	git push origin name
 # ! Алгоритм слияния веток
 # 	git checkout master	переключиться на ветку в которую надо слить изменения (master)
-# 	git marge name осуществить слияние
+# 	git merge name осуществить слияние
 # ! Именование веток feature/{Задача}-{номер}	
 # 	feature/COUNTER-FIX-1235
 # ! Одна задача одна ветка
@@ -94,4 +94,4 @@
 	git push origin name
 
 	# Слияние веток
-	git marge name
+	git merge name
